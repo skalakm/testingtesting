@@ -20,6 +20,7 @@ public class TestHello {
 
      // action
      Hello.main(null);
+     assertEquals(4,5);
 
      // assertion
      assertEquals("Hello world!\n", bos.toString());
