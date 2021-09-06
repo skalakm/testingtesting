@@ -1,4 +1,4 @@
-package pong;
+package com.example.project;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import java.io.*;
