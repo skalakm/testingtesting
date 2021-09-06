@@ -1,4 +1,5 @@
-package pong;
+
+package com.example.project;;
 
 /**
  * This class describes an object that is used to
